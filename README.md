@@ -29,7 +29,7 @@ Fonte dati [Portale Opendata - Comune Palermo](https://opendata.comune.palermo.i
 
 ---
 
-## [datawrapper](https://www.datawrapper.de/_/BwJaC/)
+## [Datawrapper](https://www.datawrapper.de/_/BwJaC/)
 
 [![Datawrapper](/dati/img/datawrapper.png "Palermo numero di sinistri per quartiere")](https://www.datawrapper.de/_/BwJaC/)
 
