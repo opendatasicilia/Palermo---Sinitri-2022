@@ -16,3 +16,8 @@ Fonte dati [Portale Opendata - Comune Palermo](https://opendata.comune.palermo.i
 ## [Flourish](https://public.flourish.studio/story/2056513/)
 
 [![Flourish](/dati/img/flourish.png "Flourish - Palermo | Localizzazione sinistri 2022")](https://public.flourish.studio/story/2056513/)
+
+
+## [datawrapper](https://www.datawrapper.de/_/BwJaC/)
+
+[![datawrapper](/dati/img/datawrapper.png "Palermo numero di sinistri per quartiere")](https://www.datawrapper.de/_/BwJaC/)
