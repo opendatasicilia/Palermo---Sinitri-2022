@@ -1,6 +1,11 @@
 # Palermo-sinistri-2022
 Sinistri stradali avvenuti nel territorio di Palermo nell'anno 2022. La colonna tipo incidente indica:  se danni a cose "C"; se con feriti "F"; se con Riserva sulla vita "R"; se mortale "M"
 
+-    F = Feriti - sinistro con lesioni a persone;
+-    C = Cose - sinistro con solo danni a cose;
+-    R = Riserva - sinistro con almeno una persona in prognosi riservata sulla vita (che se sciolta si trasforma in un normale incidente con feriti f se avviene il decesso in un mortale M);
+-    M = Mortale - sinistro con almeno un deceduto.
+
 Fonte dati [Portale Opendata - Comune Palermo](https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1713)
 
 # Geolocaliazzazioni
