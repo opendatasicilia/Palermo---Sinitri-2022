@@ -1,26 +1,26 @@
-Quartiere,Area (km²),Circoscrizione,# Sinistri,% Sinistri,Tasso  Area  (km²),Tasso per 1 Km²
-Altarello,1.77,IV,43,1.42,24.32,0.57
-Arenella - Vergine Maria,2.31,VII,10,0.33,4.34,0.43
-Boccadifalco,11.68,IV,13,0.43,1.11,0.09
-Borgo Nuovo,10.82,V,43,1.42,3.97,0.09
-Brancaccio - Ciaculli,12.47,II,31,1.02,2.49,0.08
-Cruillas - S.Giovanni Apostolo,10.66,VI,68,2.24,6.38,0.09
-Cuba - Calatafimi,1.77,IV,81,2.67,45.71,0.56
-Libertà,2.51,VIII,276,9.09,109.99,0.40
-Malaspina - Palagonia,1.37,VIII,167,5.50,121.96,0.73
-Mezzomonreale - Villa Tasca,8.28,IV,149,4.91,18.00,0.12
-Montegrappa - S. Rosalia,2.67,IV,80,2.64,29.98,0.37
-Montepellegrino,8.92,VIII,106,3.49,11.89,0.11
-Noce,1.05,V,73,2.40,69.21,0.95
-Oreto - Stazione,2.87,III,170,5.60,59.24,0.35
-Palazzo Reale - Monte di Pietà,1.15,I,81,2.67,70.59,0.87
-Pallavicino,4.87,VII,79,2.60,16.22,0.21
-Partanna Mondello,16.70,VII,98,3.23,5.87,0.06
-Politeama,2.37,VIII,372,12.25,157.01,0.42
-Resuttana - San Lorenzo,13.43,VI,286,9.42,21.30,0.07
-Settecannoli,8.11,II,220,7.25,27.11,0.12
-Tommaso Natale - Sferracavallo,9.11,VII,76,2.50,8.34,0.11
-Tribunali-Castellammare,1.37,I,134,4.41,97.67,0.73
-Uditore - Passo di Rigano,3.99,V,137,4.51,34.33,0.25
-Villagrazia - Falsomiele,17.96,III,108,3.56,6.01,0.06
-Zisa,1.63,V,135,4.45,82.60,0.61
+Circoscrizione,Quartiere,Residenti,Area (km²),# Sinistri,% Sinistri,Feriti,Tasso  Area  (km²),Tasso per 1 Km²
+IV,Altarello,14931,1.77,43,1.42,31,24.32,0.57
+VII,Arenella - Vergine Maria,8392,2.31,10,0.33,4,4.34,0.43
+IV,Boccadifalco,7799,11.68,13,0.43,7,1.11,0.09
+V,Borgo Nuovo,19423,10.82,43,1.42,34,3.97,0.09
+II,Brancaccio - Ciaculli,16346,12.47,31,1.02,20,2.49,0.08
+VI,Cruillas - S.Giovanni Apostolo,30335,10.66,68,2.24,52,6.38,0.09
+IV,Cuba - Calatafimi,19507,1.77,81,2.67,55,45.71,0.56
+VIII,Libertà,40688,2.51,276,9.09,205,109.99,0.40
+VIII,Malaspina - Palagonia,18846,1.37,167,5.50,133,121.96,0.73
+IV,Mezzomonreale - Villa Tasca,35665,8.28,149,4.91,111,18.00,0.12
+IV,Montegrappa - S. Rosalia,21058,2.67,80,2.64,78,29.98,0.37
+VIII,Montepellegrino,26454,8.92,106,3.49,75,11.89,0.11
+V,Noce,27073,1.05,73,2.40,46,69.21,0.95
+III,Oreto - Stazione,39041,2.87,170,5.60,161,59.24,0.35
+I,Palazzo Reale - Monte di Pietà,14020,1.15,81,2.67,52,70.59,0.87
+VII,Pallavicino,25891,4.87,79,2.60,54,16.22,0.21
+VII,Partanna Mondello,19422,16.70,98,3.23,70,5.87,0.06
+VIII,Politeama,31396,2.37,372,12.25,266,157.01,0.42
+VI,Resuttana - San Lorenzo,40238,13.43,286,9.42,206,21.30,0.07
+II,Settecannoli,47921,8.11,220,7.25,202,27.11,0.12
+VII,Tommaso Natale - Sferracavallo,22087,9.11,76,2.50,57,8.34,0.11
+I,Tribunali-Castellammare,12267,1.37,134,4.41,94,97.67,0.73
+V,Uditore - Passo di Rigano,30245,3.99,137,4.51,97,34.33,0.25
+III,Villagrazia - Falsomiele,39719,17.96,108,3.56,84,6.01,0.06
+V,Zisa,33243,1.63,135,4.45,127,82.60,0.61
